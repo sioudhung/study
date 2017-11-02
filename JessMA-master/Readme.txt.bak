@@ -55,9 +55,4 @@ MyJessMA 测试工程部署：
 1、Test-Projects-for-Eclipse 文件夹下的 HelloJessMA / MyJessMA 是 Eclipse IDE for JavaEE 项目工程
 2、在 Eclipse 下部署 HelloJessMA / MyJessMA 的基本步骤与上面在 MyEclipse 下部署一致
 3、由于 Eclipse 没有自带 JavaEE SDK，因此需要创建一个名称为 ‘javaee-6-api-lib’ 的 User Library，并把 javaee-6-api-lib 文件夹下的 jar 包加入其中
-
-
-
-
-阿斯顿发发发发发发撒范德萨发
 -----------------------------------------------
